@@ -79,7 +79,6 @@ Bu depo, Microsoft SQL Server Management Studio (SSMS) kullanarak SQL yolculuğu
 ## My Goal / Hedefim
 
 To become a highly skilled Machine Learning Engineer who can build intelligent systems from raw data to production.  
-
 Yüksek becerili bir Makine Öğrenimi Mühendisi olmak ve ham veriden üretime kadar akıllı sistemler kurabilmek istiyorum.  
 
 ---
